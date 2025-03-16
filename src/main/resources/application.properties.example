@@ -22,3 +22,5 @@ cloud.cloudfront.domain=
 
 spring.data.mongodb.uri=
 spring.data.mongodb.database=
+
+spring.ai.openai.api-key=
